@@ -18,8 +18,7 @@ Three key visualizations were developed:
 - Distribution of Insurance Charges
 
 ## Resources
-**Dataset** - https://www.kaggle.com/datasets/mirichoi0218/insurance
-Insurance Dataset: Primary dataset driving our insights.
-R Programming Language: A main tool for statistical analysis and visualization. More Info
-RStudio: IDE for R. More Info
-Shiny: R package for creating the interactive model
+**Dataset** - https://www.kaggle.com/datasets/mirichoi0218/insurance I
+Insurance Dataset: Primary dataset driving our insights. 
+R Programming Language: A main tool for statistical analysis and visualization. 
+Shiny: R package for creating the interactive model.
